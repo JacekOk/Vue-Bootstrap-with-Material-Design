@@ -1,5 +1,5 @@
 {
-    "name": "Vue-Bootstrap-with-Material-Design",
+    "name": "mdbootstrap/Vue-Bootstrap-with-Material-Design",
     "description": "Vue Bootstrap with Material Design - Powerful and free UI KIT",
     "require": {
         "php": "^7.2",
